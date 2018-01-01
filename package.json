@@ -1,0 +1,24 @@
+{
+  "name": "100daysofcode",
+  "version": "1.0.0",
+  "description": "100 Days Of Code Alexa SKill",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Alexa",
+    "Skill",
+    "100",
+    "Days",
+    "Of",
+    "Code"
+  ],
+  "author": "PriyankarK",
+  "license": "ISC",
+  "dependencies": {
+    "alexa-sdk": "^1.0.23",
+    "lodash": "^4.17.4",
+    "twit": "^2.2.9"
+  }
+}

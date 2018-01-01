@@ -1,0 +1,58 @@
+{
+  "intents": [
+    {
+      "intent": "AMAZON.CancelIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "GenerateProjectIdea"
+    },
+    {
+      "slots": [
+        {
+          "name": "logs",
+          "type": "AMAZON.NUMBER"
+        }
+      ],
+      "intent": "LogBook"
+    },
+    {
+      "intent": "ResetIntent"
+    },
+    {
+      "intent": "ShowIntent"
+    },
+    {
+      "intent": "Tweet"
+    }
+  ]
+}
+
+
+
+Utterances
+GenerateProjectIdea to tell me a project idea
+GenerateProjectIdea to generate a project idea
+GenerateProjectIdea to find a project idea
+LogBook to add {logs} hours to my log
+LogBook to add {logs} hours
+LogBook add {logs} hours
+LogBook to log {logs} hours
+LogBook log {logs} hours
+LogBook to add {logs} hour
+LogBook to log {logs} hour
+LogBook log {logs} hour
+ResetIntent to reset today's progress
+ResetIntent to reset
+ShowIntent to show my logs
+ShowIntent to tell me my logs
+ShowIntent to tell me my progress
+Tweet to send out a tweet
+Tweet to tweet
+
+Privacy Policy: https://alexa-twitter-airport-info.herokuapp.com/policy

@@ -1,0 +1,20 @@
+Short description
+Code Commit Challenge challenges you to code for an hour everyday for as many days as possible. Find project ideas,
+keep logs and tweet your progress.
+
+Long description
+Code Commit Challenge is a challenge that will help you improve your coding skills. You are required to code
+for at-least an hour everyday for as many days as possible. You can find project ideas, log the number of hours
+to keep track of your progress and tweet out your progress with the hashtag #CodeCommitChallenge with this skill.
+
+Systematize your coding regimen with this skill and let Alexa handle the mundane aspects of keeping track of your progress.
+Also, find other people who are taking this challenge through Twitter and motivate them to keep learning and improving!
+
+
+
+
+
+Example Phrases
+Alexa, ask code challenge, to tell me a project idea
+Alexa, ask code challenge, to add 4 hours to my log
+Alexa, ask code challenge, to tweet
